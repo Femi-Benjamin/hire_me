@@ -43,7 +43,7 @@ body {
   justify-content: space-between;
   font-family: "Halant", serif;
 }
-  
+
 #img {
   padding: 1%;
   padding-left: 3%;
@@ -53,11 +53,11 @@ body {
 
 .home {
   cursor: pointer;
-  padding-right: 19%;
+  /* padding-right: 19%; */
 }
 .abt {
   cursor: pointer;
-  padding-right: 12%;
+  /* padding-right: 12%; */
 }
 
 .hire {
